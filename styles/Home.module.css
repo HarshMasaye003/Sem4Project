@@ -285,6 +285,16 @@
   /* padding: 40px 80px; */
 }
 
+.about_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  min-height: calc(100vh - 64px - 52px);
+
+}
+
 @media (min-width: 400px) {
   .section {
     padding: 20px 30px;
