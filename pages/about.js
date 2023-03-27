@@ -13,7 +13,7 @@ const about = () => {
                 <p class="my-4">If you care for your time, I hands down would go with this."</p> */}
               </blockquote>
               <figcaption class="flex items-center justify-center space-x-3">
-                <img class="rounded-full w-9 h-9" src="./logo_men.png" alt="profile picture" />
+                <img class="w-10 h-10 p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500" src="./logo_men.png" alt="profile picture" />
                 <div class="space-y-0.5 font-medium dark:text-white text-left">
                   <div>Pranav Yamgekar</div>
                   <div class="text-sm text-gray-500 dark:text-gray-400">Role: Backend developer</div>
@@ -26,7 +26,7 @@ const about = () => {
                 <p class="my-4">Designing with Figma components that can be easily translated to the utility classes of Tailwind CSS is a huge timesaver!"</p> */}
               </blockquote>
               <figcaption class="flex items-center justify-center space-x-3">
-                <img class="rounded-full w-9 h-9" src="./logo_men.png" alt="profile picture" />
+                <img class="w-10 h-10 p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500" src="./logo_men.png" alt="profile picture" />
                 <div class="space-y-0.5 font-medium dark:text-white text-left">
                   <div>Harsh Masaye</div>
                   <div class="text-sm text-gray-500 dark:text-gray-400">Role: Frontend developer</div>
@@ -39,7 +39,7 @@ const about = () => {
                 <p class="my-4">Aesthetically, the well designed components are beautiful and will undoubtedly level up your next application."</p> */}
               </blockquote>
               <figcaption class="flex items-center justify-center space-x-3">
-                <img class="rounded-full w-9 h-9" src="./logo_women.png" alt="profile picture" />
+                <img class="w-10 h-10 p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500" src="./logo_women.png" alt="profile picture" />
                 <div class="space-y-0.5 font-medium dark:text-white text-left">
                   <div>Meghna Gade</div>
                   <div class="text-sm text-gray-500 dark:text-gray-400">Role: Backend & design</div>
@@ -52,7 +52,7 @@ const about = () => {
                 <p class="my-4">You have many examples that can be used to create a fast prototype for your team."</p> */}
               </blockquote>
               <figcaption class="flex items-center justify-center space-x-3">
-                <img class="rounded-full w-9 h-9" src="./logo_women.png" alt="profile picture" />
+                <img class="w-10 h-10 p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500" src="./logo_women.png" alt="profile picture" />
                 <div class="space-y-0.5 font-medium dark:text-white text-left">
                   <div>Prerna Patil</div>
                   <div class="text-sm text-gray-500 dark:text-gray-400">Role: Frontend & Documentation</div>
