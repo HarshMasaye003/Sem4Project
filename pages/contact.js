@@ -6,7 +6,7 @@ const contact = () => {
     <div
     ><section className={styles.section}>
         <div className={styles.content}>
-          contact
+          <h1 className={styles.h1}>contacts</h1>
         </div>
       </section>
     </div>
