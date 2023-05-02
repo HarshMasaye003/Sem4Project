@@ -18,7 +18,9 @@ export default function Home() {
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-blue-400">Microdosing synth tattooed vexillologist</h1>
             <p class="leading-relaxed mb-8">Meggings kinfolk echo park stumptown DIY, kale chips beard jianbing tousled. Chambray dreamcatcher trust fund, kitsch vice godard disrupt ramps hexagon mustache umami snackwave tilde chillwave ugh. Pour-over meditation PBR&amp;B pickled ennui celiac mlkshk freegan photo booth af fingerstache pitchfork.</p>
             <div class="flex justify-center">
+            <a href="http://0.0.0.0:8055/admin/login" target="_blank">
               <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+              </a>
               <button class="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">Button</button>
             </div>
           </div>
