@@ -348,7 +348,14 @@
   transform: translateY(-10px);
 }
 
-@media (max-width: 400px) {
+@media (max-width: 750px) {
+
+  .color_card {
+    width: 250px;
+  }
+}
+
+@media (max-width: 590px) {
   .doc_card_container {
     display: flex;
     flex-direction: column;
@@ -359,5 +366,11 @@
 
   .color_card {
     width: 200px;
+  }
+}
+
+@media (max-width: 590px) {
+  .pup_text {
+    visibility: collapse;
   }
 }
