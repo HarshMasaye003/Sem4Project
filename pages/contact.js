@@ -6,13 +6,13 @@ const contact = () => {
     <div><section className={styles.section}>
         <div className={styles.content}>
 
-<div class="max-w-screen-xl p-8 mx-auto">
-    <h2 class="mb-12 text-3xl font-extrabold leading-9 text-gray-900 border-b-2 border-gray-100">
+<div class="max-w-screen-xl p-8 mx-auto text-white">
+    <h2 class="mb-12 text-3xl font-extrabold leading-9  border-b-2 border-gray-100">
         FAQs For Students
     </h2>
     <ul class="flex flex-wrap items-start gap-8">
         <li class="w-2/5">
-            <h3 class="text-lg font-medium leading-6 text-gray-900">
+            <h3 class="text-lg font-medium leading-6 ">
             Q: What is the purpose of the project management system for VPPCOE students?
             </h3>
             <div class="mt-2">
@@ -21,7 +21,7 @@ const contact = () => {
             </div>
         </li>
         <li class="w-2/5">
-            <div class="text-lg font-medium leading-6 text-gray-900">
+            <div class="text-lg font-medium leading-6">
             Q: How do I access the project management system?
             </div>
             <div class="mt-2">
@@ -31,7 +31,7 @@ const contact = () => {
             </div>
         </li>
         <li class="w-2/5">
-            <div class="text-lg font-medium leading-6 text-gray-900">
+            <div class="text-lg font-medium leading-6 ">
             Q: What features does the project management system have?
             </div>
             <div class="mt-2">
@@ -41,7 +41,7 @@ const contact = () => {
             </div>
         </li>
         <li class="w-2/5">
-            <div class="text-lg font-medium leading-6 text-gray-900">
+            <div class="text-lg font-medium leading-6 ">
             Q: Is the project management system secure?
             </div>
             <div class="mt-2">
@@ -51,7 +51,7 @@ const contact = () => {
             </div>
         </li>
         <li class="w-2/5">
-            <div class="text-lg font-medium leading-6 text-gray-900">
+            <div class="text-lg font-medium leading-6 ">
             Q: Can I access the project management system from my mobile device?
             </div>
             <div class="mt-2">
@@ -61,7 +61,7 @@ const contact = () => {
             </div>
         </li>
         <li class="w-2/5">
-            <div class="text-lg font-medium leading-6 text-gray-900">
+            <div class="text-lg font-medium leading-6 ">
             Q: Who can I contact if I have questions or issues with the project management system?
             </div>
             <div class="mt-2">
